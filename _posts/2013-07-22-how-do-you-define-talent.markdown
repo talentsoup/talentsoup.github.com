@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Do You Define Talent?
+title: How do you define talent?
 ---
 <p>We define Talent this way:</p>
 
